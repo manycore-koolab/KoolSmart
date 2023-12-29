@@ -1,7 +1,7 @@
 <p align="center" style="padding:20px">
 <a target="_top" href="#" ><img src="document/assets/koolsmart.png" border="0"></a>
 <br>
-Making the future of life what you see is what you get
+realize imagination
 </p>
   <p align="center">
     <img src="https://img.shields.io/github/languages/code-size/manycore-koolab/KoolSmart" alt="code-size" />
